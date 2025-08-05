@@ -32,5 +32,5 @@ The dashboard aids in identifying borrowing trends, evaluating loan product perf
 
 ## Preview
 
-![Dashboard Screenshot](preview.png)
+![Dashboard Screenshot](screenshots/Preview.png)
 
